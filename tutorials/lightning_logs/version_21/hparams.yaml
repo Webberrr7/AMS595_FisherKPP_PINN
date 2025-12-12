@@ -1,0 +1,7 @@
+n_f: 5000
+n_b: 2000
+n_0: 2000
+lambda_pde: 1.0
+lambda_bc: 50.0
+lambda_ic: 50.0
+lr: 0.001
